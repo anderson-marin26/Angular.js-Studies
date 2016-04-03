@@ -1,5 +1,4 @@
-angular.module('minhasDiretivas', [])
-.directive('meuPainel', function()
+angular.module('minhasDiretivas', []).directive('meuPainel', function()
 {
 	var ddo = {}; //criando a variavel ddo
 
