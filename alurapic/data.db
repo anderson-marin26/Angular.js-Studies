@@ -14,3 +14,13 @@
 {"$$deleted":true,"_id":"E18e8augUd5ixcde"}
 {"titulo":"Raposa bolada2","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"Uma raposa muito bolada.","_id":"Xj2CjFbOKmbOW8gu"}
 {"titulo":"Pinguim","url":"http://globomidia.com.br/sites/globomidia.com.br/files/penguim.jpg","descricao":"Pinguinzinho boladinho","_id":"KCeCMHgTsDQnEmF0"}
+{"titulo":"Raposa bolada2","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"Uma raposa muito bolada.","_id":"Xj2CjFbOKmbOW8gu","grupo":1}
+{"titulo":"Raposa bolada2","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"Uma raposa muito bolada.","_id":"Xj2CjFbOKmbOW8gu","grupo":2}
+{"titulo":"Raposa bolada2","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"Uma raposa muito bolada.","_id":"Xj2CjFbOKmbOW8gu","grupo":3}
+{"$$deleted":true,"_id":"KCeCMHgTsDQnEmF0"}
+{"$$deleted":true,"_id":"Xj2CjFbOKmbOW8gu"}
+{"titulo":"Raposa","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"raposa","grupo":3,"_id":"TzoDYyGBws3rVvuG"}
+{"titulo":"Raposa da neve","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"raposa","grupo":3,"_id":"TzoDYyGBws3rVvuG"}
+{"titulo":"Teste","url":"teste","descricao":"teste","grupo":1,"_id":"AGX694EbcazipnNF"}
+{"$$deleted":true,"_id":"AGX694EbcazipnNF"}
+{"titulo":"Raposa vermelha","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vulpes_vulpes_laying_in_snow.jpg/240px-Vulpes_vulpes_laying_in_snow.jpg","descricao":"raposa","grupo":3,"_id":"TzoDYyGBws3rVvuG"}
