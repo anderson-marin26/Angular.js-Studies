@@ -24,6 +24,8 @@ angular.module('alurapic').controller('FotoController', function($scope, cadastr
 			{
 				$scope.mensagem = dados.mensagem;
 				if(dados.inclusao) $scope.foto = {};
+				//$scope.focado = true; - seria para o watch
+				//$scope.$broadcast('fotoCadastrada'); solucao geral
 			})
 			.catch(function(dados)
 			{
